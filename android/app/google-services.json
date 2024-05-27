@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623221678653",
+    "project_id": "bluetoothlowenergy-eb392",
+    "storage_bucket": "bluetoothlowenergy-eb392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623221678653:android:fb2b1ed83dbef6c8e0c054",
+        "android_client_info": {
+          "package_name": "com.example.b_le"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcgCCXSwZ2FgStzDcc1CQ4CpXoBKZoAHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
